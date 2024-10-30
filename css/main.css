@@ -1,0 +1,17 @@
+i{
+    background-color: orange;
+    color: whitesmoke;
+
+}
+.service{
+    text-align: center;
+}
+.services{
+
+    width: 33%;
+    text-align: center;
+    float:left;
+}
+.clearfix{
+    clear: both;
+}
